@@ -1,4 +1,4 @@
-# 🚀 Personal Portfolio
+# 🚀 Portfolio Template
 
 Welcome to my personal developer portfolio! This project showcases my skills, experience, and projects in a clean, responsive, and modern design built with React and Tailwind CSS.
 
