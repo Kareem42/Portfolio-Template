@@ -83,9 +83,10 @@ const Contact = () => {
 
 
             <button
+            id="submit"
             onSubmit={sendEmail}
               type="submit"
-              className="w-full inline-flex items-center justify-center gap-2 px-6 py-3 text-base font-medium text-white border border-white rounded-lg hover:bg-white hover:text-blue-700 focus:ring-4 focus:ring-white transition duration-300 hover:scale-105"
+              className="items-center jusstify-center cursor-pointer relative px-5 py-2.5 text-[18px] w-full rounded border-2 border-white bg-transparent text-white transition-all duration-500"
               >
               Send Message
             </button>

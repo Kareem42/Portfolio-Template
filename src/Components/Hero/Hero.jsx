@@ -22,13 +22,12 @@ const Hero = () => {
                             <span className="text-yellow-300">
                                 <Typewriter
                                     words={[
-                                        "A Developer's Dream Portfolio",
-                                        "Clean Code & Bold Ideas",
+                                        "A Developer's Dream Portfolio", // You can change the words to whatever you like
                                     ]}
                                     loop={true}
                                     cursor
                                     cursorStyle="_"
-                                    typeSpeed={70}
+                                    typeSpeed={90}
                                     deleteSpeed={50}
                                     delaySpeed={5000}
                                 />
